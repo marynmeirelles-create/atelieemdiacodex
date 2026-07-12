@@ -1,13 +1,14 @@
-const CACHE_NAME = "atelie-em-dia-v27";
+const CACHE_NAME = "atelie-em-dia-v29";
 const ASSETS = [
   "./",
   "./index.html",
-  "./style.css?v=27",
-  "./script.js?v=27",
-  "./summary-fix.js?v=27",
-  "./db.js?v=27",
-  "./backup.js?v=27",
-  "./manifest.json?v=27",
+  "./style.css?v=29",
+  "./layout-fix.css?v=29",
+  "./script.js?v=29",
+  "./compat-fix.js?v=29",
+  "./db.js?v=29",
+  "./backup.js?v=29",
+  "./manifest.json?v=29",
   "./assets/atelie-em-dia-logo.png",
   "./assets/atelie-em-dia-logo-transparent.png",
   "./assets/icon-192.png",
